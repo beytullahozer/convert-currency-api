@@ -1,3 +1,8 @@
+# Api Using
+
+## Define
+
+  This is an api pull application. Currency units are selected with the get rates button, with the current exchange rates. 👋
 
 <br> 
 
